@@ -1,6 +1,3 @@
-[submodule "bambuddy"]
-	path = bambuddy
-	url = https://github.com/Kasperr169/homeassistant-app-bambuddy.git
 [submodule "homeassistant-app-bambuddy"]
 	path = homeassistant-app-bambuddy
 	url = https://github.com/Kasperr169/homeassistant-app-bambuddy.git
